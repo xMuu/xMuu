@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xMuu&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 
 #### Something about me:
-- 👨‍💻 Android Develop (Learing)
+- 👨‍💻 Android Develop (Learning)
 - 💻 Hackintosh & 📱 iPhone 8 & 📱 LG V30+
 - ☕️ Kotlin & Java & some C++
 - 📚 A college student
