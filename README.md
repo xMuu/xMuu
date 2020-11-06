@@ -9,6 +9,6 @@
 - 📚 A college student
 - 💬 Mandarin and English
 
-If you like my projects, you can give me more power on [afdian.net](https://afdian.net/@imxMuu).
+You can find me on Telegram with `@imxMuu`.
 
-Also you can find me on Telegram with `@imxMuu`.
+If you like my projects, you can give me more power on [afdian.net](https://afdian.net/@imxMuu).
