@@ -4,8 +4,8 @@
 
 #### Something about me:
 - 👨‍💻 Android Develop (Learning)
-- 💻 Hackintosh & 📱 iPhone 8 & 📱 LG V30+
-- ☕️ Kotlin & Java & some C++
+- 💻 M1 MBP & 📱 iPhone 8 & 📱 LG V30+
+- ☕️ Kotlin & Java
 - 📚 A college student
 - 💬 Mandarin and English
 
