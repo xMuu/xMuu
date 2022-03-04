@@ -4,7 +4,7 @@
 
 #### Something about me:
 - 👨‍💻 Android Develop (Learning)
-- 💻 M1 MBP & 📱 iPhone 8 & 📱 LG V30+
+- 💻 M1 MBP & 📱 iPhone 13 Mini
 - ☕️ Kotlin & Java
 - 📚 A college student
 - 💬 Mandarin and English
